@@ -67,4 +67,4 @@ The Power BI dashboard provides interactive visualizations for:
 
 ## Author
 
-Hung Khanh Nguyen
+** Hung Khanh Nguyen **
